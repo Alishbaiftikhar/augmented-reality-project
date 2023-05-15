@@ -23,7 +23,7 @@
   </template>
   
   <script>
-  import '@google/model-viewer/dist/model-viewer.min.js';
+  //import '@google/model-viewer/dist/model-viewer.min.js';
   export default {
     name: "ARModelViewer",
     data() {
