@@ -11,8 +11,8 @@
       ></model-viewer>
       <section class="attribution">
         <span>
-          <h1>Astronaut</h1>
-          <span>By <a href="https://poly.google.com/view/dLHpzNdygsg" target="_blank">Poly</a></span>
+          <h1>PATTERN GENERATION</h1>
+          <span>By <a href="https://poly.google.com/view/dLHpzNdygsg" target="_blank">VDESIGNER</a></span>
         </span>
         <a class="cc" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
           <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
