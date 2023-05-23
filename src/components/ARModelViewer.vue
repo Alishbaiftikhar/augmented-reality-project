@@ -1,15 +1,15 @@
 <template>
   <div id="card">
-    <model-viewer :src="modelSrc" poster="https://cdn.glitch.com/36cb8393-65c6-408d-a538-055ada20431b%2Fposter-astronaut.png?v=1599079951717" alt="A 3D model of an astronaut" shadow-intensity="1" camera-controls auto-rotate ar></model-viewer>
+    <model-viewer :src="modelSrc" poster="https://firebasestorage.googleapis.com/v0/b/vdesigners-5b906.appspot.com/o/images%2FLogo.png?alt=media&token=2aa9d259-3ee3-4344-ada1-22fac2f2b089" alt="v-designers logo" shadow-intensity="1" camera-controls auto-rotate ar></model-viewer>
     <section class="attribution">
       <span>
-        <h1>PATTERN GENERATION</h1>
-        <span>By <a href="https://poly.google.com/view/dLHpzNdygsg" target="_blank">VDESIGNER</a></span>
+        <h1>Augmented Reality</h1>
+        <span>By <a href="" target="_blank">V-DESIGNERs</a></span>
       </span>
-      <a class="cc" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
+      <!-- <a class="cc" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
         <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" />
         <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" />
-      </a>
+      </a> -->
     </section>
   </div>
 </template>
@@ -83,4 +83,5 @@ model-viewer {
   background-color: #70bcd1;
   --poster-color: #ffffff00;
 }
+
 </style>
